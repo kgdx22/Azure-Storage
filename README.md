@@ -16,7 +16,10 @@
 ![STOR5LAB1](https://github.com/user-attachments/assets/93234b5f-9404-4920-8884-1bdde9cbfa21)
 
 * Current Resource Map 
-
+* Virtual Machines have been deployed into designated subnets
+  
 <img width="958" alt="AZSTOR5" src="https://github.com/user-attachments/assets/281f45c9-acb5-42da-a023-fd1178e48c64" />
 
-<img width="959" alt="AZSTOR6" src="https://github.com/user-attachments/assets/0a86cdd7-4069-4305-a9c6-3a464fa8483c" />
+* Downloaded RDP file and accessed VM via RDP. Using the above Powershell script to test the storage connection from the private subnet to confirm that access is allowed
+  
+
